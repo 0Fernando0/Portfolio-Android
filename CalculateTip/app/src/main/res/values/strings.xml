@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculate Tip</string>
+    <string name="calculadora_de_gorjeta">Calculadora De Gorjeta</string>
+    <string name="gorjeta">"Gorjeta: %s"</string>
+    <string name="valor">Valor</string>
+    <string name="porcentagem">(%)</string>
+    <string name="arredondar">Arredondar?</string>
+</resources>
