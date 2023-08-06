@@ -11,11 +11,7 @@ Neste repositório, reuno uma variedade de projetos Android desenvolvidos com Ko
 
 <h2>Projetos Disponíveis</h2>
 <ul>
-  <li>Projeto 1: Um aplicativo de lista de tarefas simples que demonstra conceitos básicos de atividades, layouts e interações com o usuário.</li>
-  <li>Projeto 2: Um aplicativo de previsão do tempo que consome dados de uma API e exibe as informações em um design atraente.</l1>
-  <li>Projeto 3: Um jogo de quebra-cabeças deslizante com gráficos animados e lógica de jogo sofisticada.</l1>
-  <li>Projeto 4: Um aplicativo de galeria de imagens que permite ao usuário navegar e compartilhar fotos.
-</l1>
-  <li>Projeto 5: Um aplicativo de rastreamento de despesas pessoais que registra e exibe gastos em diferentes categorias.
-</l1>
+  <li>CalculateTip: Um aplicativo de gorjeta que retorna a porcentagem de um valor, podendo modificar a porcentagem.</li>
+  <li>MarsPhotos: Um aplicativo que consome uma api publica para retornar fotos de marte de marte.</l1>
+  
 </ul>
