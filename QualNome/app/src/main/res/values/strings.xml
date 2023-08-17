@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Qual Nome</string>
+    <string name="descricao">Seu Palpite Sobre O Nome Embaralhado</string>
+    <string name="score">Score: %d</string>
+    <string name="tentativas">%d/10</string>
+    <string name="descricao_label">Insira O Nome Correto</string>
+    <string name="tentar">Tentar</string>
+    <string name="pular">Pular</string>
+    <string name="seu_score">Seu Score É %d Pontos</string>
+    <string name="parabens">Fim De Jogo</string>
+    <string name="jogar_novamente">Jogar Novamente</string>
+    <string name="sair_do_jogo">Sair Do Jogo</string>
+</resources>
